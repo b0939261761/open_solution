@@ -1,0 +1,7 @@
+first:
+  id: 1
+  login: 'User 1'
+
+second:
+  id: 2
+  login: 'User 2'

@@ -1,0 +1,9 @@
+first:
+  id: 1
+  post_id: 2
+  rating: 3
+
+second:
+  id: 2
+  post_id: 2
+  rating: 1
