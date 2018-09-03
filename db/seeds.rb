@@ -27,6 +27,6 @@ ips = []
       post_id: post[:post_id],
       rating: rand(1..5)
     }
-    Net::HTTP.post(URI("#{host}set_raiting"), body_raiting.to_json, header)
+    Net::HTTP.post(URI("#{host}set_rating"), body_raiting.to_json, header)
   end
 end
